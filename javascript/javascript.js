@@ -97,10 +97,3 @@ var animals =[]
 
 
 
-      function addToTable (4 arguments){
-        snapshot.val().name
-
-
-      }
-
-     snapshot.val.name
